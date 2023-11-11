@@ -1,0 +1,241 @@
+Year,Name,Revenue,Rank,CEO,CEO Birth Year
+2000,General Motors,189058,1,Rick Wagoner,1953
+2000,Walmart,166809,2,H. Lee Scott Jr.,1949
+2000,Exxon Mobil,163881,3,Lee R. Raymond,1938
+2000,Ford Motor,162558,4,Jacques Nasser,1947
+2000,General Electric,111630,5,Jack Welch,1935
+2000,IBM,87548,6,"Louis V. Gerstner, Jr.",1942
+2000,Citigroup,82005,7,Sanford I. Weill,1933
+2000,AT&T,62391,8,C. Michael Armstrong,1938
+2000,Altria Group,61751,9,Geoffrey C. Bible,1935
+2000,Boeing,57993,10,Philip M. Condit,1941
+2001,Exxon Mobil,210392,1,Lee R. Raymond,1938
+2001,Walmart,193295,2,H. Lee Scott Jr.,1949
+2001,General Motors,184632,3,Rick Wagoner,1953
+2001,Ford Motor,180598,4,William Clay Ford Jr.,1957
+2001,General Electric,129853,5,Jeffrey R. Immelt,1956
+2001,Citigroup,111826,6,Sanford I. Weill,1933
+2001,Enron,100789,7,Stephen Cooper (Interim),1948
+2001,IBM,88396,8,"Louis V. Gerstner, Jr.",1942
+2001,AT&T,65981,9,C. Michael Armstrong,1938
+2001,Verizon,64707,10,Ivan Seidenberg,1946
+2002,Walmart,219812,1,H. Lee Scott Jr.,1949
+2002,Exxon Mobil,191581,2,Lee R. Raymond,1938
+2002,General Motors,177260,3,Rick Wagoner,1953
+2002,Ford Motor,162412,4,William Clay Ford Jr.,1957
+2002,Enron,138718,5,Stephen Cooper (Interim),1948
+2002,General Electric,125913,6,Jeffrey R. Immelt,1956
+2002,Citigroup,112022,7,Sanford I. Weill,1933
+2002,Chevron,99699,8,Dave O'Reilly,1947
+2002,IBM,85866,9,Samuel J. Palmisano,1951
+2002,Altria Group,72944,10,Louis C. Camilleri,1955
+2003,Walmart,246525,1,H. Lee Scott Jr.,1949
+2003,General Motors,186763,2,Rick Wagoner,1953
+2003,Exxon Mobil,182466,3,Lee R. Raymond,1938
+2003,Ford Motor,163630,4,William Clay Ford Jr.,1957
+2003,General Electric,131698,5,Jeffrey R. Immelt,1956
+2003,Citigroup,100789,6,Charles O. Prince III,1950
+2003,Chevron,92043,7,Dave O'Reilly,1947
+2003,IBM,83132,8,Samuel J. Palmisano,1951
+2003,AIG,67722.8,9,"Maurice R. ""Hank"" Greenberg",1925
+2003,Verizon,67625,10,Ivan Seidenberg,1946
+2004,Walmart,258681,1,H. Lee Scott Jr.,1949
+2004,Exxon Mobil,213199,2,Lee R. Raymond,1938
+2004,General Motors,195645.2,3,Rick Wagoner,1953
+2004,Ford Motor,164496,4,William Clay Ford Jr.,1957
+2004,General Electric,134187,5,Jeffrey R. Immelt,1956
+2004,Chevron,112937,6,Dave O'Reilly,1947
+2004,Conoco,99468,7,James J. Mulva,1946
+2004,Citigroup,94713,8,Charles O. Prince III,1950
+2004,IBM,89131,9,Samuel J. Palmisano,1951
+2004,AIG,81300,10,"Maurice R. ""Hank"" Greenberg",1925
+2005,Walmart,288189,1,H. Lee Scott Jr.,1949
+2005,Exxon Mobil,270772,2,Lee R. Raymond,1938
+2005,General Motors,193517,3,Rick Wagoner,1953
+2005,Ford Motor,172233,4,William Clay Ford Jr.,1957
+2005,General Electric,152363,5,Jeffrey R. Immelt,1956
+2005,Chevron,147967,6,Dave O'Reilly,1947
+2005,Conoco,121663,7,James J. Mulva,1946
+2005,Citigroup,108276,8,Charles O. Prince III,1950
+2005,AIG,98610,9,Martin J. Sullivan,1955
+2005,IBM,96293,10,Samuel J. Palmisano,1951
+2006,Exxon Mobil,339938,1,Rex W. Tillerson,1952
+2006,Walmart,315654,2,H. Lee Scott Jr.,1949
+2006,General Motors,192604,3,Rick Wagoner,1953
+2006,Chevron,189481,4,Dave O'Reilly,1947
+2006,Ford Motor,177210,5,Alan R. Mulally,1945
+2006,Conoco,166683,6,James J. Mulva,1946
+2006,General Electric,157153,7,Jeffrey R. Immelt,1956
+2006,Citigroup,131045,8,Charles O. Prince III,1950
+2006,AIG,108905,9,Martin J. Sullivan,1955
+2006,IBM,91134,10,Samuel J. Palmisano,1951
+2007,Walmart,351139,1,H. Lee Scott Jr.,1949
+2007,Exxon Mobil,347254,2,Rex W. Tillerson,1952
+2007,General Motors,207349,3,Rick Wagoner,1953
+2007,Chevron,200567,4,Dave O'Reilly,1947
+2007,Conoco,172451,5,James J. Mulva,1946
+2007,General Electric,168307,6,Jeffrey R. Immelt,1956
+2007,Ford Motor,160126,7,Alan R. Mulally,1945
+2007,Citigroup,146777,8,Vikram Pandit,1957
+2007,Bank of America,117017,9,Kenneth D. Lewis,1947
+2007,AIG,113194,10,Martin J. Sullivan,1955
+2008,Walmart,378799,1,H. Lee Scott Jr.,1949
+2008,Exxon Mobil,372824,2,Rex W. Tillerson,1952
+2008,Chevron,210783,3,Dave O'Reilly,1947
+2008,General Motors,182347,4,Rick Wagoner,1953
+2008,Conoco,178558,5,James J. Mulva,1946
+2008,General Electric,176656,6,Jeffrey R. Immelt,1956
+2008,Ford Motor,172468,7,Alan R. Mulally,1945
+2008,Citigroup,159229,8,Vikram Pandit,1957
+2008,Bank of America,119190,9,Kenneth D. Lewis,1947
+2008,AT&T,118928,10,Randall L. Stephenson,1960
+2009,Exxon Mobil,442851,1,Rex W. Tillerson,1952
+2009,Walmart,405607,2,Michael T. Duke,1950
+2009,Chevron,263159,3,John S. Watson,1956
+2009,Conoco,230764,4,James J. Mulva,1946
+2009,General Electric,183207,5,Jeffrey R. Immelt,1956
+2009,General Motors,148979,6,Fritz Henderson,1958
+2009,Ford Motor,146277,7,Alan R. Mulally,1945
+2009,AT&T,124028,8,Randall L. Stephenson,1960
+2009,Hewlett-Packard,118364,9,Mark Hurd,1957
+2009,Valero Energy,118298,10,Joseph W. Gorder,1957
+2010,Walmart,408214,1,Michael T. Duke,1950
+2010,Exxon Mobil,284650,2,Rex W. Tillerson,1952
+2010,Chevron,163527,3,John S. Watson,1956
+2010,General Electric,156779,4,Jeffrey R. Immelt,1956
+2010,Bank of America,150450,5,Brian T. Moynihan,1959
+2010,Conoco,139515,6,James J. Mulva,1946
+2010,AT&T,123018,7,Randall L. Stephenson,1960
+2010,Ford Motor,118308,8,Alan R. Mulally,1945
+2010,J.P. Morgan,115632,9,Jamie Dimon,1956
+2010,Hewlett-Packard,114552,10,Léo Apotheker,1953
+2011,Walmart,421849,1,Michael T. Duke,1950
+2011,Exxon Mobil,354674,2,Rex W. Tillerson,1952
+2011,Chevron,196337,3,John S. Watson,1956
+2011,Conoco,184966,4,James J. Mulva,1946
+2011,Fannie Mae,153825,5,Michael J. Williams,1951
+2011,General Electric,151628,6,Jeffrey R. Immelt,1956
+2011,Berkshire Hathaway,136185,7,Warren Buffett,1930
+2011,General Motors,135592,8,Daniel Akerson,1948
+2011,Bank of America,134194,9,Brian T. Moynihan,1959
+2011,Ford Motor,128954,10,Alan R. Mulally,1945
+2012,Exxon Mobil,452926,1,Rex W. Tillerson,1952
+2012,Walmart,446950,2,Michael T. Duke,1950
+2012,Chevron,245621,3,John S. Watson,1956
+2012,Conoco,237272,4,Ryan M. Lance (Interim),1962
+2012,General Motors,150276,5,Daniel Akerson,1948
+2012,General Electric,147616,6,Jeffrey R. Immelt,1956
+2012,Berkshire Hathaway,143688,7,Warren Buffett,1930
+2012,Fannie Mae,137451,8,Michael J. Williams,1951
+2012,Ford Motor,136264,9,Alan R. Mulally,1945
+2012,Hewlett-Packard,127245,10,Meg Whitman,1956
+2013,Walmart,469162,1,Michael T. Duke,1950
+2013,Exxon Mobil,449886,2,Rex W. Tillerson,1952
+2013,Chevron,233899,3,John S. Watson,1956
+2013,Phillips 66,169551,4,Greg C. Garland,1956
+2013,Berkshire Hathaway,162463,5,Warren Buffett,1930
+2013,Apple,156508,6,Tim Cook,1960
+2013,General Motors,152256,7,Daniel Akerson,1948
+2013,General Electric,146874,8,Jeffrey R. Immelt,1956
+2013,Valero Energy,138286,9,Joseph W. Gorder,1957
+2013,Ford Motor,134252,10,Alan R. Mulally,1945
+2014,Walmart,476294,1,Douglas McMillon,1966
+2014,Exxon Mobil,407666,2,Rex W. Tillerson,1952
+2014,Chevron,220356,3,John S. Watson,1956
+2014,Berkshire Hathaway,182150,4,Warren Buffett,1930
+2014,Apple,170910,5,Tim Cook,1960
+2014,Phillips 66,161175,6,Greg C. Garland,1956
+2014,General Motors,155427,7,Mary T. Barra,1961
+2014,Ford Motor,146917,8,Mark Fields,1961
+2014,General Electric,146231,9,Jeffrey R. Immelt,1956
+2014,Valero Energy,137758,10,Joseph W. Gorder,1957
+2015,Walmart,-,1,Douglas McMillon,1966
+2015,Exxon Mobil,-,2,Rex W. Tillerson,1952
+2015,Chevron,-,3,John S. Watson,1956
+2015,Berkshire Hathaway,-,4,Warren Buffett,1930
+2015,Apple,-,5,Tim Cook,1960
+2015,General Motors,-,6,Mary T. Barra,1961
+2015,Phillips 66,-,7,Greg C. Garland,1956
+2015,General Electric,-,8,Jeffrey R. Immelt,1956
+2015,Ford Motor,-,9,Mark Fields,1961
+2015,CVS,-,10,Larry J. Merlo,1955
+2016,Walmart,482130,1,Douglas McMillon,1966
+2016,Exxon Mobil,246204,2,Darren W. Woods,1964
+2016,Apple,233715,3,Tim Cook,1960
+2016,Berkshire Hathaway,210821,4,Warren Buffett,1930
+2016,McKesson,181241,5,John H. Hammergren,1959
+2016,UnitedHealth Group,157107,6,Stephen J. Hemsley,1953
+2016,CVS,153290,7,Larry J. Merlo,1955
+2016,General Motors,152356,8,Mary T. Barra,1961
+2016,Ford Motor,149558,9,Mark Fields,1961
+2016,AT&T,146801,10,Randall L. Stephenson,1960
+2017,Walmart,485873,1,Douglas McMillon,1966
+2017,Berkshire Hathaway,223604,2,Warren Buffett,1930
+2017,Apple,215639,3,Tim Cook,1960
+2017,Exxon Mobil,205004,4,Darren W. Woods,1964
+2017,McKesson,192487,5,John H. Hammergren,1959
+2017,UnitedHealth Group,184840,6,Stephen J. Hemsley,1953
+2017,CVS,177526,7,Larry J. Merlo,1955
+2017,General Motors,166380,8,Mary T. Barra,1961
+2017,AT&T,163786,9,Randall L. Stephenson,1960
+2017,Ford Motor,151800,10,Mark Fields,1961
+2018,Walmart,500343,1,Douglas McMillon,1966
+2018,Exxon Mobil,244363,2,Darren W. Woods,1964
+2018,Berkshire Hathaway,242137,3,Warren Buffett,1930
+2018,Apple,229234,4,Tim Cook,1960
+2018,UnitedHealth Group,201159,5,Stephen J. Hemsley,1953
+2018,McKesson,198533,6,John H. Hammergren,1959
+2018,CVS,184765,7,Larry J. Merlo,1955
+2018,Amazon,177866,8,Jeff Bezos,1964
+2018,AT&T,160546,9,Randall L. Stephenson,1960
+2018,General Motors,157311,10,Mary T. Barra,1961
+2019,Walmart,514405,1,Douglas McMillon,1966
+2019,Exxon Mobil,290212,2,Darren W. Woods,1964
+2019,Apple,265595,3,Tim Cook,1960
+2019,Berkshire Hathaway,247837,4,Warren Buffett,1930
+2019,Amazon,232887,5,Jeff Bezos,1964
+2019,UnitedHealth Group,226247,6,Stephen J. Hemsley,1953
+2019,McKesson,208357,7,Brian Tyler,1972
+2019,CVS,194579,8,Larry J. Merlo,1955
+2019,AT&T,170756,9,Randall L. Stephenson,1960
+2019,AmerisourceBergen,167939.6,10,Steven H. Collis,1962
+2020,Walmart,523964,1,Douglas McMillon,1966
+2020,Amazon,280522,2,Jeff Bezos,1964
+2020,Exxon Mobil,264938,3,Darren W. Woods,1964
+2020,Apple,260174,4,Tim Cook,1960
+2020,CVS,256776,5,Larry J. Merlo,1955
+2020,Berkshire Hathaway,254616,6,Warren Buffett,1930
+2020,UnitedHealth Group,242155,7,Stephen J. Hemsley,1953
+2020,McKesson,214319,8,Brian Tyler,1972
+2020,AT&T,181193,9,John Stankey,1963
+2020,AmerisourceBergen,179589.1,10,Steven H. Collis,1962
+2021,Walmart,559151,1,Douglas McMillon,1966
+2021,Amazon,386064,2,Andy Jassy,1968
+2021,Apple,274515,3,Tim Cook,1960
+2021,CVS,268706,4,Karen S. Lynch,1963
+2021,UnitedHealth Group,257141,5,Andrew Witty,1964
+2021,Berkshire Hathaway,245510,6,Warren Buffett,1930
+2021,McKesson,231051,7,Brian Tyler,1972
+2021,AmerisourceBergen,189893.9,8,Steven H. Collis,1962
+2021,Alphabet,182527,9,Sundar Pichai,1972
+2021,Exxon Mobil,181502,10,Darren W. Woods,1964
+2022,Walmart,,1,Douglas McMillon,1966
+2022,Amazon,,2,Andy Jassy,1968
+2022,Exxon Mobil,,3,Darren W. Woods,1964
+2022,Apple,,4,Tim Cook,1960
+2022,UnitedHealth Group,,5,Andrew Witty,1964
+2022,CVS,,6,Karen S. Lynch,1963
+2022,Berkshire Hathaway,,7,Warren Buffett,1930
+2022,Alphabet,,8,Sundar Pichai,1972
+2022,Chevron,,9,Michael K. Wirth,1960
+2022,McKesson,,10,Brian Tyler,1972
+2023,Walmart,,1,Douglas McMillon,1966
+2023,Amazon,,2,Andy Jassy,1968
+2023,Exxon Mobil,,3,Darren W. Woods,1964
+2023,Apple,,4,Tim Cook,1960
+2023,UnitedHealth Group,,5,Andrew Witty,1964
+2023,CVS,,6,Karen S. Lynch,1963
+2023,Berkshire Hathaway,,7,Warren Buffett,1930
+2023,Alphabet,,8,Sundar Pichai,1972
+2023,McKesson,,9,Brian Tyler,1972
+2023,Chevron,,10,Michael K. Wirth,1960
